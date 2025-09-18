@@ -1,0 +1,4 @@
+﻿opencv-python==4.12.0.88
+TIME-python==14.42.34433
+pillow==11.3.0
+mediapipe==0.10.21
